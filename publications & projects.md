@@ -59,3 +59,26 @@ title: Publications & School Projects
        </p>
     </div>
 </div>
+
+
+<h3>
+    <a name='2021'></a> 2021
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Introducing the Adequate Housing Index : A New Approach to Estimate the Adequate Housing Deficit within and across Emerging Economies </strong><br />
+          Behr, Daniela M; <b>Chen, Lixue</b> <br />; Goel, Ankita; Haider, Khondoker Tanveer; Singh, Sandeep; Zaman, Asad. 
+          Python, Stata, Household Survey <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>The Distribution Effects of Natural Disasters</strong><br />
+          Nina Budina, <b>Lixue Chen</b>, Laura Nowzohour<br />
+          Python, Stata, Local Projection, Micro Survey Data <br />
+       </p>
+    </div>
+</div>
